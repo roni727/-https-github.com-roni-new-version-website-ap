@@ -1,0 +1,15 @@
+{
+  "roni": {
+    "sessionId": "929274147b91fdf1ba7a1c490a50a40f",
+    "loginTime": 1767579379522,
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "expiresAt": 1768237495655,
+    "remember": true,
+    "userData": {
+      "username": "roni",
+      "role": "owner",
+      "expired": 1770134654024
+    },
+    "lastActive": 1767632695656
+  }
+}
